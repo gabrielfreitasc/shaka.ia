@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Projeto consumindo a API da OPENAI, em que o usuário envia um vídeo/áudio dentro da plataforma e com algumas opções adicionais e configurações ele pode solicitar diversas coisas a partir daquele arquivo, como transcrições, resumo, ideias de títulos e descrições, exemplos de códigos citados no vídeo e entre outras coisas. 
+Projeto consumindo a API da OPENAI, em que o usuário envia um vídeo/áudio dentro da plataforma e com algumas opções adicionais e configurações ele pode solicitar diversas coisas a partir daquele arquivo, como transcrições, resumo, ideias de títulos e descrições, exemplos de códigos citados no vídeo e entre outras coisas.
 
 - [Acesse o projeto finalizado, online](https://github.com/gabrielfreitasc/shaka.ia)
 
